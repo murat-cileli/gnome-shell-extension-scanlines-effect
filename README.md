@@ -1,5 +1,5 @@
-# GNOME Shell Extension Ecanlines Effect
-Retro monitor / CRT TV effect for GNOME Shell.
+# GNOME Shell Extension Scanlines Effect
+Old-school monitor / CRT TV effect for GNOME Shell.
 
 ![Screenshot](https://github.com/murat-cileli/gnome-shell-extension-scanlines-effect/blob/main/preview.png)
 
