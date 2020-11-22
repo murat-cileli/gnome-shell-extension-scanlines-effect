@@ -1,0 +1,12 @@
+{
+  "description": "Retro monitor / CRT TV effect.",
+  "name": "Scanlines Effect",
+  "settings-schema": "org.gnome.shell.extensions.scanlines-effect",
+  "shell-version": [
+    "3.36",
+    "3.38"
+  ],
+  "url": "https://github.com/murat-cileli/gnome-shell-extension-scanlines-effect",
+  "uuid": "scanlines-effect@muratcileli.com",
+  "version": 1
+}
