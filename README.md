@@ -6,7 +6,7 @@ Retro monitor / CRT TV effect for GNOME Shell.
 ## Installation
 
 - Download or clone this repository.
-- Copy `scanlines-effect@muratcileli.com` folder to `~/.local/share/gnome-shell/extensions/`
+- Copy `scanlines-effect@muratcileli.com` to `~/.local/share/gnome-shell/extensions/`
 - Press `ALT+F2` and type `r` then `Enter`.
 - Open Tweaks and activate the extension.
 
