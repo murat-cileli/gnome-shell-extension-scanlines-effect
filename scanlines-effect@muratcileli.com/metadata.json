@@ -4,7 +4,8 @@
   "settings-schema": "com.muratcileli.scanlines-effect",
   "shell-version": [
     "3.36",
-    "3.38"
+    "3.38",
+    "43"
   ],
   "url": "https://github.com/murat-cileli/gnome-shell-extension-scanlines-effect",
   "uuid": "scanlines-effect@muratcileli.com",
